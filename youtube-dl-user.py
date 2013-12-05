@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # youtube-dl-user
 #
-# Utility to download Youtube user's uploaded videos.
+# Utility to download Youtube user's uploaded videos as MP3s.
 #
 # @author imclab <info at theimclab dot com>
 # @license LGPL version 2 or greater <http://www.gnu.org/licenses/lgpl.html>
